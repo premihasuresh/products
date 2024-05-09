@@ -1,0 +1,63 @@
+.App {
+  text-align: center;
+ 
+}
+
+.sheading{
+  float:left;
+}
+
+.Free{
+  float:right;
+}
+
+
+/* .card-text{
+  font-size:20px;
+} */
+.card
+{
+  height:600px;
+  width:300px;
+  
+}
+.sale{
+  float:right;
+  padding-left:300px;
+  /* color:black; */
+  
+  
+}
+.sales{
+  background-color:black;
+  color:white;
+  float:right;
+}
+.card-img-top{
+  height:450px;
+  width:300px;
+}
+.heading{
+  width:1500px;
+  height:300px;
+  text-align:center;
+  background-color: black;
+  color:white;
+  padding:100px 200px 100px 100px;
+  text-align:center;
+}
+.productlist{
+  display:flex;
+  flex-wrap: wrap;
+  gap:20px;
+  
+
+}
+.footer{
+  text-align:center;
+  height:100px;
+  background-color:black;
+  color:white;
+  padding:30px 20px 20px 20px;
+
+}
